@@ -3,9 +3,6 @@ https://drive.google.com/file/d/12rZPdDRgTK7fuVtxzILMmd-f6ge7ahk5/view?usp=shari
 
 ---------
 ①Pythonの課題
-まず最初はPythonの課題です。
-課題は以下になります。
-
 1. example.pyを作成して「hello world」と出力してください。
 2. greet関数を実装し、「こんにちは」と出力するようにしてください。関数を呼び出して、実際に出力されることを確認してください。
 3. nameを引数に取り、「私の名前は{name}です」と出力するprint_name関数を実装し、関数を呼び出して動作を確認してください。
