@@ -3,7 +3,7 @@ https://drive.google.com/file/d/12rZPdDRgTK7fuVtxzILMmd-f6ge7ahk5/view?usp=shari
 
 ---
 ステップ150
-##①Pythonの課題
+①Pythonの課題
 
 1. example.pyを作成して「hello world」と出力してください。
 2. greet関数を実装し、「こんにちは」と出力するようにしてください。関数を呼び出して、実際に出力されることを確認してください。
